@@ -1,1 +1,38 @@
+📌 Problem Statement
+Given an integer array, determine if it contains any duplicates. Return true if any value appears at least twice in the array, otherwise return false.
+Solution :
+This Java application solves the "Contains Duplicate" problem using different algorithmic strategies and applies the Factory Design Pattern to switch between them in a clean, extensible, and structured way.
 
+🛠️ Technologies Used:
+
+💻 Java
+
+🧪 Scanner for input
+
+🔄 HashSet for efficient duplicate checking
+
+🧱 Factory Design Pattern to decouple logic and enhance maintainability
+
+🧠 Algorithms Implemented
+Brute Force Approach
+
+Compares every pair of elements.
+
+Time Complexity: O(n²)
+
+Space Complexity: O(1)
+
+HashSet Approach
+
+Uses a HashSet to track seen elements (since sets don’t allow duplicates).
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+🧩 Design Pattern Used: Factory Pattern
+The Factory Pattern allows selecting the duplicate-checking strategy dynamically based on user input. It improves:
+
+Code readability
+
+Adherence to SOLID principles
