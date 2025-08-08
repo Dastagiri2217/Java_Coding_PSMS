@@ -1,4 +1,4 @@
-#  Day 2: Java Practice Problems - Anagram Series
+#  Day 2: Java Practice Problems - Anagram Series Date 07-08-2025
 
 This repository contains Java solutions for two classic string problems:
 
@@ -81,5 +81,6 @@ Output: [["eat","tea","ate"],["tan","nat"],["bat"]]
 - `Grouper.java`: Implements optimized logic using frequency arrays.
 
 ---
+
 
 
