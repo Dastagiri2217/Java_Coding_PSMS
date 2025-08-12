@@ -1,6 +1,8 @@
+package Day_6;
+
 import java.util.*;
 class MaxWaterStorage {
-    public int maxArea(int[] heights) {
+    public static int maxArea(int[] heights) {
         int maxWater = 0;
         int left = 0, right = heights.length - 1;
 
@@ -25,7 +27,10 @@ class MaxWaterStorage {
     for(int i=0;i<n;i++){
       arr[i] = sc.nextInt();
     }
-    int maxWater = maxArea(heights);
+    int maxWater = maxArea(arr);
     System.out.println("Max Water it Contains is :"+maxWater);
+    sc.close();
   }
+  
 }
+
