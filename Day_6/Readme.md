@@ -1,4 +1,4 @@
-# Array Rotation – Rotate Array to the Right by K Steps
+# Array Rotation – Rotate Array to the Right by K Steps 11/08/2025
 ## Problem Statement
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 
