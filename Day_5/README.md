@@ -1,4 +1,4 @@
-# Product of Array Except Self
+# Product of Array Except Self 10/08/2025
 ## Problem Statement
 Given an integer array nums, return an array output such that:
 
