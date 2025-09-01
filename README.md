@@ -1,6 +1,6 @@
-#  45 Days of Coding Challenge 🚀
 
-Welcome to my **45 Days of Coding Challenge** where I solve one or more coding problems every day using Java. This challenge is focused on improving my data structures and algorithms skills, problem-solving ability, and clean code practices.
+
+Welcome to my ** Coding Challenge** where I solve one or more coding problems every day using Java. This challenge is focused on improving my data structures and algorithms skills, problem-solving ability, and clean code practices.
 
 ---
 📌 Goal of the Challenge
