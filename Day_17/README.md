@@ -1,0 +1,1 @@
+Given a String S Calculate the no of pairs of (i,j) such that i < j and s[i] == 'a' & s[j] == 'g'
